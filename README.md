@@ -1,26 +1,26 @@
-# Financial Transaction Fraud Detection System
+# Guardian Insights – Financial Fraud Detection
 
-## Objective
-Detect fraudulent financial transactions using machine learning classification models.
+Prototype:
+https://guardian-insights.vercel.app
 
-## Dataset
-Transaction dataset containing features like transaction amount, time, and user behavior patterns.
+## Overview
 
-## Methods Used
-- Logistic Regression
-- Random Forest
+Guardian Insights is a machine learning based system that detects fraudulent financial transactions.
 
-## Tools
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+## Features
 
-## Evaluation Metrics
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
+- Fraud risk prediction
+- Transaction analysis
+- Machine learning model
 
-## Workflow
-1. Data preprocessing
-2. Handling class imbalance
-3. Model training
-4. Model evaluation
+## Tech Stack
+
+Python  
+Scikit-learn  
+Flask  
+Pandas
+
+## Prototype
+
+Live demo:
+https://guardian-insights.vercel.app
